@@ -23,4 +23,3 @@ the Belarusian State University of Informatics and Radioelectronics (BSUIR), Min
 **English**\
 B1 INTERMEDIATE\
 I can understand the main points of what I hear and read in English, and I begin to understand the relative abstract theme.
-#https://GorelovaP.github.io/rsschool-cv/cv
