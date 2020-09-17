@@ -14,7 +14,7 @@ Despite the fact that I am still only a third-year student of the Belarusian Sta
 •	Teamwork\
 •	Initiative \
 **Code example**\
-Unfortunately, now I have no well-written code.\
+Unfortunately, I have no well-written code now.\
 **Experience** \
 --\
 **Education** \
