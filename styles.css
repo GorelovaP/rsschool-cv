@@ -1,0 +1,179 @@
+h3{
+  text-align: center;
+  
+}
+
+.skills{
+  padding-top: 20px;
+  padding-right: 20px;
+  
+  
+}
+.round{ 
+  position: absolute;
+  top: 430px;
+  left: 170px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.round2{ 
+  position: absolute;
+  top: 430px;
+  left: 466px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.round3{ 
+  position: absolute;
+  top: 430px;
+  left: 580px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.round4{ 
+  position: absolute;
+  top: 430px;
+  left: 876px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.round4{ 
+  position: absolute;
+  top: 430px;
+  left: 876px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.round5{ 
+position: absolute;
+top: 430px;
+left: 990px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.round6{ 
+position: absolute;
+top: 430px;
+left: 1286px;
+width: 40px;
+height: 40px;
+border: 1.5px solid #000000;
+border-radius: 50%;
+background: #fff;
+z-index: 1;
+
+}
+.right{
+   position: absolute;
+  top: 420px;
+  left: 150px;
+  height: 22em;
+  width: 21em;
+  background-color: #edd5c2;
+  padding: 20px;
+  
+}
+
+.right2{
+   position: absolute;
+  top: 420px;
+  left: 560px;
+  height: 22em;
+  width: 21em;
+  background-color: #edd5c2;
+  padding: 20px;
+  
+}
+.right3{
+   position: absolute;
+  top: 420px;
+  left: 970px;
+  height: 22em;
+  width: 21em;
+  background-color: #edd5c2;
+  padding: 20px;
+  
+}
+.center {
+position: absolute;
+text-align: center;
+padding: 10px;
+ top: 280px;
+  left: 100px;
+  height: 32.8em;
+  width: 80em;
+  background-color: #ffff;
+
+}
+.photo {
+  position: absolute;
+  top: 0px;
+  left: 395px;
+  height: 16.3em;
+  width: 21.4em;
+  background-color: #edd5c2;
+z-index: 0;
+}
+.photo2 {
+  position: absolute;
+  top: 0px;
+  left: 415px;
+  height: 200px;
+  width: 250px;
+z-index: 1;}
+.head {
+text-align: center;
+font-size: 18px;
+position: absolute;
+left: 700px; /* Положение левого края */
+top: 50px;
+height: 10.8em;
+width: 18.3em;
+background-color: #fff;
+z-index: 2;
+
+}
+
+body 
+{
+  background-color: #f6F3F1;
+    height: 842px;
+    width: 595px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+head {
+background-color: #f6F3F1;
+
+}
